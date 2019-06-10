@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>posi.png</file>
+        <file>11.png</file>
+        <file>bullet.png</file>
+        <file>grass_02.jpg</file>
+        <file>blood_1.png</file>
+        <file>wave_1.png</file>
+        <file>gold_1.png</file>
+        <file>enemy01.png</file>
+        <file>mainpage.jpg</file>
+        <file>statement.jpg</file>
+    </qresource>
+</RCC>
